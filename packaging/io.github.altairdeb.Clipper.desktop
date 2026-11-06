@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Clipper
+Comment=Historial del portapapeles
+Exec=clipper --mostrar
+Icon=edit-paste
+Terminal=false
+Categories=Utility;
+Keywords=clipboard;portapapeles;
